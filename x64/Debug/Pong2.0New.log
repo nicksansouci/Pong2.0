@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\attributes.h(12,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\attributes.h(43,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\attributes.h(43,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\attributes.h(43,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\attributes.h(43,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(22,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(28,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(29,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(35,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(36,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(56,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(87,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(97,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(134,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(135,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(159,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(160,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(188,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\techn\Dev\Pong2.0New\Pong2.0New\main.cpp(191,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Pong2.0New.vcxproj -> C:\Users\techn\Dev\Pong2.0New\x64\Debug\Pong2.0New.exe
